@@ -2,10 +2,10 @@
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" tvg-country="ID" tvg-url="" group-title="",Ahsan TV
 http://119.82.224.75:1935/live/ahsantv/chunk.m3u8
 
-#EXTINF:-1,group-title="RELIGION"MAKKAH
+#EXTINF:-1,LIVE MAKKAH
 http://210.210.155.35/qwr9ew/s/s28/01.m3u8
 
-#EXTINF:-1,group-title="RELIGION"MADINAH
+#EXTINF:-1,LIVE MADINAH
 http://210.210.155.35/qwr9ew/s/s27/01.m3u8
 
 #EXTINF:-1,RODJA TV

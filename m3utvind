@@ -126,3 +126,156 @@ http://210.210.155.35/qwr9ew/s/s34/index.m3u8
 #EXTINF:-1 group-title=,ZEE BIOSKOP
 https://livetvhooq.akamaized.net/ed9f674616594d96bbe00f93ab8d7672/eu-central-1/5493668622001/profile_3/chunklist.m3u8?hdnts=st=1576169705~exp=9007200830910696~acl=/ed9f674616594d96bbe00f93ab8d7672/*/profile_3/chunklist.m3u8*~hmac=c464efdac528cb4b0e4c27ada7a0480ce7bce6030e39ab45e36833b4bc9b9fbd
  
+#EXTINF:-1 group-title="KNOWLEDGE",Animal Planet
+http://203.153.218.28:9981/stream/channelid/1943600623?ticket=694FA36A0D756D8572C705243A10521FAF796351&profile=pass
+#EXTINF:-1 group-title="KNOWLEDGE",ASIAN FOOD CHANNEL
+http://203.153.218.28:9981/stream/channelid/1092664456?ticket=14E70DC61F9D3C5BAE936B553F41A53FF667A436&profile=pass
+#EXTINF:-1 group-title="KNOWLEDGE",DISCOVERY
+http://203.153.218.28:9981/stream/channelid/1151931232?ticket=0FD929CA7DF17E6EEE71987033DD2583FE81676A&profile=pass
+#EXTINF:-1 group-title="KNOWLEDGE",ENTERTAINMENT
+https://livetvhooq.akamaized.net:443/37882cebae53494fbb9e86e68eae4673/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1573600290~exp=9007200828341281~acl=/37882cebae53494fbb9e86e68eae4673/*/profile_0/chunklist.m3u8*~hmac=30e5c1e07672f7c7de106b843093231ffae71271a99008779f59afb36a3eac58
+#EXTINF:-1 group-title="KNOWLEDGE",HISTORY TH
+https://tv4.chang55.com/live2/tv4ch21.stream/chunks.m3u8
+#EXTINF:-1 group-title="KNOWLEDGE",HISTORY TH 2
+https://tv4.chang55.com/live2/tv4ch19.stream/chunks.m3u8
+#EXTINF:-1 group-title="KNOWLEDGE",H2
+http://livecdnh1.tvanywhere.ae:80/hls/h2/03.m3u8
+#EXTINF:-1 group-title="KNOWLEDGE",NAT GEO People
+http://203.153.218.28:9981/stream/channelid/1114683377?ticket=93B3188F4C61F26C880290A5E7E8072BDAB2EFF2&profile=pass
+#EXTINF:-1 group-title="KNOWLEDGE",NAT GEO Wild
+http://livecdnh1.TVanywhere.ae/hls/nat_geo_wild/03.m3u8?
+#EXTINF:-1 group-title="KNOWLEDGE",National Geographic
+http://livecdnh1.TVanywhere.ae/hls/nat_geo/05.m3u8?IWAK-PEYEK.m3u8
+#EXTINF:-1 group-title="KNOWLEDGE",NAT GEO People US
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/03.m3u8
+#EXTINF:-1 group-title="KNOWLEDGE",OUTDOOR CHANNEL
+https://livetvhooq.akamaized.net/4333904e5f68426cae808a645e882206/eu-central-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1576672231~exp=9007200831413222~acl=/4333904e5f68426cae808a645e882206/*/profile_2/chunklist.m3u8*~hmac=d22ed12147e6fe5936f8198fcf71838cb4651880f2ac0f4fdea39fb2b8a054b7
+ 
+ 
+ 
+ 
+ 
+ 
+#EXTINF:-1 group-title="SPORTS",SHOPEE LIGA 1
+http://id1.indostreamingtv.com/live/indosiar/index.m3u8?syukriadi.m3u8
+#EXTINF:-1 group-title="SPORTS",TVRI SPORT
+http://210.210.155.35/session/4ef13212-a900-11e9-8ab6-b7d19fbdbf13/qwr9ew/s/s107/02.m3u8
+#EXTINF:-1 group-title="SPORTS",EUROSPORT 1
+http://163.172.179.78:8081/tv/eurosport-1/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS",EUROSPORT 2
+http://163.172.179.78:8081/tv/eurosport-2/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS",RED BULL TV
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+#EXTINF:-1 group-title="SPORTS",AUTOMOTO TV
+http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS",ESPN
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/482.m3u8
+#EXTINF:-1 group-title="SPORTS",FOX SPORT
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/496.m3u8
+#EXTINF:-1 group-title="SPORTS",FOX SPORT 2
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/497.m3u8
+#EXTINF:-1 group-title="SPORTS",FOX SPORT 3
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/498.m3u8
+#EXTINF:-1 group-title="SPORTS",SKY SPORT PREMIER LEAGUE
+http://95.170.215.120:80/hls/m3u8/Sky-Sport-Pre-L.m3u8
+#EXTINF:-1 group-title="SPORTS",REAL MADRID TV
+http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
+#EXTINF:-1 group-title="SPORTS",SONY ESPN
+https://streamer-1.toffeelive.com/live/sony_espn_576/index.m3u8
+#EXTINF:-1 group-title="SPORTS",SONY SIX
+https://streamer-1.toffeelive.com/live/sony_six_576/index.m3u8
+#EXTINF:-1 group-title="SPORTS",SONY TEN 1
+https://streamer-1.toffeelive.com/live/sony_ten1_hd_576/index.m3u8
+#EXTINF:-1 group-title="SPORTS",SONY TEN 2
+https://streamer-1.toffeelive.com/live/sony_ten2_hd_576/index.m3u8
+#EXTINF:-1 group-title="SPORTS",SONY TEN 3
+https://streamer-1.toffeelive.com/live/ten_3_576/index.m3u8
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+#EXTINF:-1 group-title="KIDS",DISNEP JUNIOR
+http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
+#EXTINF:-1 group-title="KIDS",DISNEP
+http://203.153.218.28:9981/stream/channelid/31701170?ticket=02DB3A3E44B8E741CC4D2913B2F42F452A2C3AB9&profile=pass
+#EXTINF:-1 group-title="KIDS",Nickelodeon Asia
+http://203.153.218.28:9981/stream/channelid/648970596?ticket=72A19F89119921817ADF08AEBFF2D7E0009D1A20&profile=pass
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Flammarion-color.png/288px-Flammarion-color.png" group-title="KIDS",ANIMAX
+http://210.210.155.35/session/83bc2526-da69-11e8-881b-c81f66f89318/dr9445/h/h144/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Flammarion-color.png/288px-Flammarion-color.png" group-title="KIDS",ANIPLUS HD
+http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/01.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Flammarion-color.png/288px-Flammarion-color.png" group-title="KIDS",BABY FIRST
+http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Flammarion-color.png/288px-Flammarion-color.png" group-title="KIDS",BOOMERANG
+http://livecdnh3.tvanywhere.ae/hls/boomerang/03.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Flammarion-color.png/288px-Flammarion-color.png" group-title="KIDS",Cartoon Network HD
+http://203.153.218.28:9981/stream/channelid/251475608?ticket=C1591DCCC0F7C6FE6105E8334F3AED8E9378628D&profile=pass
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Flammarion-color.png/288px-Flammarion-color.png" group-title="KIDS",UK Cartoonito
+http://160.119.77.50/iptv/uk-cartoonito.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Flammarion-color.png/288px-Flammarion-color.png" group-title="KIDS",UK Cbeebies
+http://160.119.77.50/iptv/uk-cbeebieshd.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Flammarion-color.png/288px-Flammarion-color.png" group-title="KIDS",DUCK TV
+http://livecdnh3.tvanywhere.ae/hls/duck/03.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Flammarion-color.png/288px-Flammarion-color.png" group-title="KIDS", EBS KIDS
+http://ebsonair.ebs.co.kr:1935/ebsutablet500k/_definst_/tablet500k/chunklist_w1145871295.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Flammarion-color.png/288px-Flammarion-color.png" group-title="KIDS",UK Disney Channel ENG
+http://160.119.77.50/iptv/uk-disney.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Flammarion-color.png/288px-Flammarion-color.png" group-title="KIDS",DISNEY JUNIOR
+http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Flammarion-color.png/288px-Flammarion-color.png" group-title="KIDS",EGG NETWORK
+http://210.210.155.66/h/h22/01.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Flammarion-color.png/288px-Flammarion-color.png" group-title="KIDS",MIAO MI
+https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/prog_index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Flammarion-color.png/288px-Flammarion-color.png" group-title="KIDS",UK Nick JR ENG
+http://160.119.77.50/iptv/uk-nickjr.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Flammarion-color.png/288px-Flammarion-color.png" group-title="KIDS",NICKELODEON ASIA
+http://203.153.218.28:9981/stream/channelid/648970596?ticket=FDB188FE08A7F0FBC8EF18857FAF714833A5A5C9&profile=pass
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Flammarion-color.png/288px-Flammarion-color.png" group-title="KIDS",SPACETOON
+http://95.170.215.109:80/hls/m3u8/Spacetoon-Backup.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Flammarion-color.png/288px-Flammarion-color.png" group-title="KIDS", Tom & Jerry TV
+https://ws.flv.nimo.tv/live/su1599512427554r538093ee8e9c2edd24251f82cda6fd16_high.flv?fluxustv.flv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Flammarion-color.png/288px-Flammarion-color.png" group-title="KIDS", LARVA TV
+http://ws.flv.nimo.tv/live/su1599512427560r1e0b7afba22fec0a5191643a588e9f06_high.flv
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+#EXTINF:-1 group-title="KOREA",K+
+http://210.210.155.35/session/ae30bcaa-0c95-11e9-8e7a-c81f66f89318/uq2663/h/h08/01.m3u8
+#EXTINF:-1 group-title="KOREA",K DRAMA
+https://livetvhooq.akamaized.net/8b4f753fdcc94067bfcd243350f36999/ap-southeast-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1578218095~exp=9007200832959086~acl=/8b4f753fdcc94067bfcd243350f36999/*/profile_2/chunklist.m3u8*~hmac=f8592d4c498e05f0594606b638e52a903e3862502482e6aa350511ad78020bf8
+#EXTINF:-1 group-title="KOREA",SONY GEM
+http://210.210.155.66/h/h19/01.m3u8
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+#EXTINF:-1 group-title="MUSIC",PRAMBOS
+https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(d38de229-8abc-4072-91d4-2c42935f7e3b)/manifest.mpd
+#EXTINF:-1 group-title="MUSIC",MTV
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
+#EXTINF:-1 group-title="MUSIC",KARAOKE
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/chunklist_b2288000.m3u8?
+#EXTINF:-1 group-title="MUSIC",BOX HITZ
+http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
